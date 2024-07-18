@@ -2,7 +2,7 @@
 
 int main(){
     int array1[] = {-1, 5, 12, 7, 19, 3, -4, 8, 15, 0};
-	int array2[] = {26, 6, 13, -5, 20, 11, -20, 2, 17, 9};
+    int array2[] = {26, 6, 13, -5, 20, 11, -20, 2, 17, 9};
     
     int size1 = sizeof(array1) / sizeof(array1[0]);
     int size2 = sizeof(array2) / sizeof(array2[0]);
